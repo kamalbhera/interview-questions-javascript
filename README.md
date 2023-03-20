@@ -1,0 +1,44 @@
+# Interview Practice with Javascript ES6
+
+- 01_fizzbuzz.js
+- 02_nth_to_last_linked_list_element.js
+- 03_smallest_change.js
+- 04_number_of_ones_in_binary.js
+- 05_max_stack.js
+- 06_check_binary_search_tree.js
+- 07_anagrams.js
+- 08_string_compression.js
+- 09_kth_most_frequent_string.js
+- 10_split_a_linked_list.js
+- 11_tree_level_order.js
+- 12_n_stacks.js
+- 13_permutations.js
+- 14_palindrome.js
+- 15_rotate_bits.js
+- 16_three_sum.js
+- 17_zero_sum.js
+- 18_merge_arrays.js
+- 19_blanced_binary_tree.js
+- 20_gray_number.js
+- 21_stack_from_queues.js
+- 22_longest_common_substring.js
+- 23_print_reversed.js
+- 24_sort_stacks.js
+- 25_longest_consecutive_branch.js
+- 26_line_intersection.js
+- 27_tree_to_linked_list.js
+- 28_clock_angle.js
+- 29_matrix_search.js
+- 30_swap_variables.js
+- 31_reverse_stack.js
+- 32_string_deletion.js
+- 33_lowest_common_ancestor.js
+- 34_dedup_linked_list.js
+- 34_dedup_linked_list_without_extra_space.js
+- 35_merge_k_sorted_arrays.js
+- 36_bit_int_modulus.js
+- 37_random_linked_list.js
+- 38_square_submatrix.js
+	- Solution: Make a matrix mirror
+- 39_shortest_path.js
+- 50_nested_flat_data.js
